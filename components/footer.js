@@ -3,7 +3,7 @@ export default function Footer() {
     <footer className="bg-gradient-to-b from-gray-50 to-white py-12 sm:py-20 px-4 sm:px-8">
       <div className="max-w-7xl mx-auto">
         <div className="text-center mb-12 sm:mb-20">
-          <h1 className="font-playfair text-5xl sm:text-6xl md:text-7xl lg:text-8xl xl:text-9xl font-light bg-gradient-to-r from-black via-gray-700 to-gray-900 bg-clip-text text-transparent leading-none tracking-tight">
+          <h1 className="font-playfair text-5xl sm:text-6xl md:text-7xl lg:text-8xl xl:text-9xl font-light bg-gradient-to-r from-black via-gray-700 to-gray-900 bg-clip-text text-transparent leading-[1.4] tracking-tight">
             designstudio
           </h1>
         </div>
