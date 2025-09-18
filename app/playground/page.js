@@ -73,8 +73,8 @@ export default function PlaygroundPage() {
       } else if (prompt.trim()) {
         formData.append("design_theme", prompt.trim())
       }
-
-      const response = await fetch("http://34.239.218.9:8000/api/demo_backend_v2/generate_interior_design", {
+// https://demo.holbox.ai/api/demo_backend_v2
+      const response = await fetch("https://demo.holbox.ai/api/demo_backend_v2/generate_interior_design", {
         method: "POST",
         body: formData,
       })
