@@ -18,7 +18,7 @@ export default function HeroSection() {
       <div className="relative z-10 flex flex-col items-center justify-center min-h-[calc(100vh-80px)] px-4 sm:px-6 text-center">
         <div className="max-w-5xl mx-auto">
           <h2 className="font-playfair text-4xl sm:text-5xl md:text-6xl lg:text-7xl xl:text-8xl font-light text-white mb-8 sm:mb-12 leading-[0.9] tracking-tight">
-            Transform your space with an
+            Transform your space with
             <br />
             <span className="font-medium italic bg-gradient-to-r from-white to-gray-300 bg-clip-text text-transparent">
               AI-powered design
