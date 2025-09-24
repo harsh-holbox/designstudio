@@ -33,7 +33,7 @@ export default function Portfolio() {
       title: "Luxury Master Suite",
       category: "Bedroom",
       client: "Private Residence",
-      year: "2024",
+      year: "2025",
       description:
         "An elegant master bedroom design featuring premium materials, custom furniture, and sophisticated lighting solutions.",
       image: "/serene-modern-bedroom-with-minimalist-design.jpg",
